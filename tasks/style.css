@@ -1,0 +1,28 @@
+.inc, .mydel{
+	color: black;
+	text-decoration: none;
+}
+
+.inc{
+	background-color: skyblue;
+}
+ 
+.inc:hover{
+	color: blue;
+	background-color: yellow;
+	text-decoration: underline;
+}
+
+.mydel:hover{
+	color: red;
+	background-color: pink;
+	text-decoration: underline;
+}
+
+.tcomp{
+	background-color: green;
+}
+
+.tcomp:hover{
+	background-color: greenyellow;
+}
