@@ -35,4 +35,6 @@ if($conn->connect_error){
 
 ?>
 
-</body>
+<?php require "footer.php" ?>
+
+
